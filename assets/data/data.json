@@ -1,0 +1,40 @@
+{
+    "name": "Projects",
+    "version": "1.0",
+    "description": "Projects data",
+    "items": [
+        {
+        "id": 1,
+        "title": "Login Page with HTML, CSS, and JavaScript",
+        "description": "This project demonstrates a simple login page using HTML, CSS, and JavaScript. It includes form validation and basic styling.",
+        "link": "https://github.com/username/project1",
+        "image": "https://example.com/image1.jpg",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "date": "2023-01-01",
+        "author": "John Doe",
+        "status": "completed"
+        },
+        {
+        "id": 2,
+        "title": "Responsive Portfolio Website",
+        "description": "A responsive portfolio website built with HTML, CSS, and JavaScript. It showcases projects and skills in a clean layout.",
+        "link": "https://github.com/username/project2",
+        "image": "https://example.com/image2.jpg",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "date": "2023-02-01",
+        "author": "Jane Doe",
+        "status": "in-progress"
+        },
+        {
+        "id": 3,
+        "title": "E-commerce Website",
+        "description": "An e-commerce website built with HTML, CSS, and JavaScript. It features product listings, a shopping cart, and user authentication.",
+        "link": "https://github.com/username/project1",
+        "image": "https://example.com/image3.jpg",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "date": "2023-03-01",
+        "author": "Alice Smith",
+        "status": "completed"
+        }
+    ]
+}
